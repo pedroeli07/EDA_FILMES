@@ -1,0 +1,1 @@
+Esta pasta contém os gráficos gerados a partir da análise de dados relacionados ao voto médio de filmes. Os gráficos foram criados utilizando a biblioteca Plotly em Python e abordam diferentes aspectos, como correlações com o orçamento, gênero, diretor, país de produção e outros.
