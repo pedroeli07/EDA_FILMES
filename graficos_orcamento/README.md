@@ -1,0 +1,1 @@
+Esta pasta contém uma coleção de gráficos interativos que exploram diferentes aspectos relacionados aos orçamentos de filmes. Os gráficos foram criados a partir de dados analisados ​​e visualizados usando a biblioteca Plotly em Python.
